@@ -5,3 +5,4 @@
 - 练习日期：2026-07-22
 - 练习内容：Fork → Clone → Commit → Push 完整流程
 - 使用对象：web-artifacts-builder skill
+原来cmommit和push是两步
